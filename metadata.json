@@ -1,0 +1,6 @@
+{
+  "name": "Swapnil Tours and Travels - Badlapur East",
+  "description": "Premium car rental, airport transfers, and outstation tour packages from Badlapur East, Thane, Maharashtra. Call or WhatsApp 7039350555.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
